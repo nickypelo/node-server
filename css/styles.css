@@ -1,0 +1,52 @@
+
+html{
+    background-image: linear-gradient(to bottom, rgb(56, 104, 192), rgb(146, 136, 136));
+    height: 100vh;
+}
+
+body{
+    
+    margin: 4rem auto;
+    width: 50%;
+    background-color: antiquewhite;
+}
+
+h2{
+    margin: 32px;
+    font-size: 2rem;
+    padding-top: 28px;
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+    padding:0;
+}
+
+summary{
+    padding-left: 28px;
+}
+
+.__main{
+    /* border: 1px solid #333; */
+    box-shadow: 0 0 10px #333;
+    padding-bottom: 28px;
+}
+
+
+.link-container{
+    width: 100px;
+    margin: auto;
+}
+
+li{
+    list-style: none;
+}
+
+details{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
